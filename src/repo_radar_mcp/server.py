@@ -1,4 +1,4 @@
-from __future__ import annotations
+﻿from __future__ import annotations
 
 from typing import Any
 
@@ -22,7 +22,7 @@ def search_repositories(
     """Search GitHub repositories by topic, language and minimum stars.
 
     Args:
-        topic: Search topic. Examples: "mcp server", "rag chatbot", "trading bot".
+        topic: Search topic. Examples: "mcp server", "rag assistant", "business automation".
         language: Optional programming language. Examples: "Python", "JavaScript".
         limit: Number of repositories to return. Default 5. Maximum 10.
         min_stars: Optional minimum stars filter.
@@ -132,7 +132,7 @@ def compare_repositories(repositories: str) -> dict[str, Any]:
 
     Args:
         repositories: Comma-separated repository names using owner/name format.
-            Example: "freqtrade/freqtrade, ccxt/ccxt, hummingbot/hummingbot"
+            Example: "modelcontextprotocol/python-sdk, langchain-ai/langchain, run-llama/llama_index"
     """
 
     client = GitHubClient()
@@ -183,3 +183,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+

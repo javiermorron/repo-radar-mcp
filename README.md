@@ -1,4 +1,4 @@
-# Repo Radar MCP
+﻿# Repo Radar MCP
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![MCP](https://img.shields.io/badge/MCP-Compatible-green)
@@ -173,11 +173,11 @@ Search the 5 most popular Python repositories about "mcp server" and explain whi
 ```
 
 ```text
-Compare these repositories: freqtrade/freqtrade, ccxt/ccxt, hummingbot/hummingbot.
+Compare these repositories: modelcontextprotocol/python-sdk, langchain-ai/langchain, run-llama/llama_index.
 ```
 
 ```text
-Find popular repositories about "rag chatbot" in Python with more than 500 stars and rank them by usefulness.
+Find popular repositories about "rag assistant" in Python with more than 500 stars and rank them by usefulness.
 ```
 
 ```text
@@ -211,27 +211,27 @@ The score is not meant to replace human judgment. It is a quick signal to help a
 
 ```text
 repo-radar-mcp/
-├── src/
-│   └── repo_radar_mcp/
-│       ├── __init__.py
-│       ├── server.py
-│       ├── github_client.py
-│       ├── scoring.py
-│       ├── formatters.py
-│       └── models.py
-├── examples/
-│   ├── claude_desktop_config.example.json
-│   └── prompts.md
-├── tests/
-│   └── test_scoring.py
-├── .env.example
-├── .gitignore
-├── LICENSE
-├── README.md
-├── CHANGELOG.md
-├── requirements.txt
-├── pyproject.toml
-└── server.py
+â”œâ”€â”€ src/
+â”‚   â””â”€â”€ repo_radar_mcp/
+â”‚       â”œâ”€â”€ __init__.py
+â”‚       â”œâ”€â”€ server.py
+â”‚       â”œâ”€â”€ github_client.py
+â”‚       â”œâ”€â”€ scoring.py
+â”‚       â”œâ”€â”€ formatters.py
+â”‚       â””â”€â”€ models.py
+â”œâ”€â”€ examples/
+â”‚   â”œâ”€â”€ claude_desktop_config.example.json
+â”‚   â””â”€â”€ prompts.md
+â”œâ”€â”€ tests/
+â”‚   â””â”€â”€ test_scoring.py
+â”œâ”€â”€ .env.example
+â”œâ”€â”€ .gitignore
+â”œâ”€â”€ LICENSE
+â”œâ”€â”€ README.md
+â”œâ”€â”€ CHANGELOG.md
+â”œâ”€â”€ requirements.txt
+â”œâ”€â”€ pyproject.toml
+â””â”€â”€ server.py
 ```
 
 ---
@@ -282,4 +282,6 @@ Good first issues:
 
 This project is licensed under the MIT License.
 
-Created by Javier Morrón. Connect with me on LinkedIn: https://www.linkedin.com/in/javiermorron.
+Created by Javier MorrÃ³n. Connect with me on LinkedIn: https://www.linkedin.com/in/javiermorron.
+
+
