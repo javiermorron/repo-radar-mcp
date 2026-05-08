@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "repo-radar-mcp": {
+      "command": "C:\\Users\\YOUR_USER\\repo-radar-mcp\\.venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\YOUR_USER\\repo-radar-mcp\\server.py"
+      ]
+    }
+  }
+}
