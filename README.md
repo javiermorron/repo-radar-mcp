@@ -312,7 +312,7 @@ Repo Radar MCP can return structured Markdown reports with repository name, star
 
 Watch Repo Radar MCP running inside MCP Inspector:
 
-[![Repo Radar MCP Demo](assets/mcp-inspector-tools.png)](assets/Demo.mp4)
+![Repo Radar MCP Demo](assets/demo.gif)
 
 > If the video does not preview correctly on GitHub, upload it as a release asset or replace it with a short GIF.
 
